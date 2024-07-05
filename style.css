@@ -1,0 +1,33 @@
+h1{
+    margin-left:500px;
+    margin-bottom: 30px;
+}
+form{
+    margin-left: 500px;
+    font-size: 18px;
+}
+body{
+    background-color: #242424;
+    color: #fff;
+}
+div{
+    margin-left: 500px;
+    margin-top: 30px;
+}
+p{
+    margin-left:500px;
+    width: 450px;
+}
+input{
+    width: 500px;
+    height:30px;
+    border: 0px;
+    border-radius: 10px;
+    padding-left: 40px;
+}
+button{
+    width:80px;
+    height: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}
